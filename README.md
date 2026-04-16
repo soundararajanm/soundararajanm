@@ -2,5 +2,6 @@
 
 Welcome!!
 
-- 🔭 I’m currently working on NI LabVIEW, NI TestStand
-- 🌱 I’m currently learning Python, STM32
+- 🔭 NI LabVIEW, NI TestStand
+- 🌱 Rust, Python, C#
+- 🌱 Embedded Systems, KiCad 
